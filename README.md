@@ -1,4 +1,8 @@
-# portal-it115
-An example portal page
+This README file serves as a worklog for our project. 
 
-Please feel free to use the HMTL/CSS and JS in this repo as you wish!
+06/01/2021: (Daniel) Merged personal branding page onto the Main branch.  (.5 hours)
+
+06/01/2021: (Daniel) Merged personal branding page onto the Main branch.  (.5 hours)
+                    Researched steps to prepare for an interview. 
+                    
+05/27/2021: (Team) Practiced working on individual branches and merging with the Main.  (1.5 hours)
